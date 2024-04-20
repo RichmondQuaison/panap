@@ -1,0 +1,4 @@
+Flask==2.2.3
+Pillow==9.4.0
+scikit-image==0.20.0
+gunicorn
